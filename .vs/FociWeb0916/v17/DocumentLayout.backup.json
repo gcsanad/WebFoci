@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gajdos.csanad\\source\\repos\\gcsanad\\WebFoci\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C017EF82-85DF-46DA-A809-180B5E854B56}|FociWeb0916\\FociWeb0916.csproj|c:\\users\\gajdos.csanad\\source\\repos\\gcsanad\\webfoci\\fociweb0916\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C017EF82-85DF-46DA-A809-180B5E854B56}|FociWeb0916\\FociWeb0916.csproj|solutionrelative:fociweb0916\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C017EF82-85DF-46DA-A809-180B5E854B56}|FociWeb0916\\FociWeb0916.csproj|c:\\users\\gajdos.csanad\\source\\repos\\gcsanad\\webfoci\\fociweb0916\\pages\\ujmerkozesfelvetele.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C017EF82-85DF-46DA-A809-180B5E854B56}|FociWeb0916\\FociWeb0916.csproj|solutionrelative:fociweb0916\\pages\\ujmerkozesfelvetele.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C017EF82-85DF-46DA-A809-180B5E854B56}|FociWeb0916\\FociWeb0916.csproj|c:\\users\\gajdos.csanad\\source\\repos\\gcsanad\\webfoci\\fociweb0916\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C017EF82-85DF-46DA-A809-180B5E854B56}|FociWeb0916\\FociWeb0916.csproj|solutionrelative:fociweb0916\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C017EF82-85DF-46DA-A809-180B5E854B56}|FociWeb0916\\FociWeb0916.csproj|c:\\users\\gajdos.csanad\\source\\repos\\gcsanad\\webfoci\\fociweb0916\\pages\\ujmerkozesfelvetele.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C017EF82-85DF-46DA-A809-180B5E854B56}|FociWeb0916\\FociWeb0916.csproj|solutionrelative:fociweb0916\\pages\\ujmerkozesfelvetele.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C017EF82-85DF-46DA-A809-180B5E854B56}|FociWeb0916\\FociWeb0916.csproj|c:\\users\\gajdos.csanad\\source\\repos\\gcsanad\\webfoci\\fociweb0916\\models\\meccs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C017EF82-85DF-46DA-A809-180B5E854B56}|FociWeb0916\\FociWeb0916.csproj|solutionrelative:fociweb0916\\models\\meccs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C017EF82-85DF-46DA-A809-180B5E854B56}|FociWeb0916\\FociWeb0916.csproj|c:\\users\\gajdos.csanad\\source\\repos\\gcsanad\\webfoci\\fociweb0916\\pages\\ujmeccsfelvetele.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C017EF82-85DF-46DA-A809-180B5E854B56}|FociWeb0916\\FociWeb0916.csproj|solutionrelative:fociweb0916\\pages\\ujmeccsfelvetele.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C017EF82-85DF-46DA-A809-180B5E854B56}|FociWeb0916\\FociWeb0916.csproj|c:\\users\\gajdos.csanad\\source\\repos\\gcsanad\\webfoci\\fociweb0916\\models\\focidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C017EF82-85DF-46DA-A809-180B5E854B56}|FociWeb0916\\FociWeb0916.csproj|solutionrelative:fociweb0916\\models\\focidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C017EF82-85DF-46DA-A809-180B5E854B56}|FociWeb0916\\FociWeb0916.csproj|c:\\users\\gajdos.csanad\\source\\repos\\gcsanad\\webfoci\\fociweb0916\\pages\\ujmeccsfelvetele.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C017EF82-85DF-46DA-A809-180B5E854B56}|FociWeb0916\\FociWeb0916.csproj|solutionrelative:fociweb0916\\pages\\ujmeccsfelvetele.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UjMerkozesFelvetele.cshtml",
+              "DocumentMoniker": "C:\\Users\\gajdos.csanad\\source\\repos\\gcsanad\\WebFoci\\FociWeb0916\\Pages\\UjMerkozesFelvetele.cshtml",
+              "RelativeDocumentMoniker": "FociWeb0916\\Pages\\UjMerkozesFelvetele.cshtml",
+              "ToolTip": "C:\\Users\\gajdos.csanad\\source\\repos\\gcsanad\\WebFoci\\FociWeb0916\\Pages\\UjMerkozesFelvetele.cshtml",
+              "RelativeToolTip": "FociWeb0916\\Pages\\UjMerkozesFelvetele.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T06:15:12.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gajdos.csanad\\source\\repos\\gcsanad\\WebFoci\\FociWeb0916\\Program.cs",
+              "RelativeDocumentMoniker": "FociWeb0916\\Program.cs",
+              "ToolTip": "C:\\Users\\gajdos.csanad\\source\\repos\\gcsanad\\WebFoci\\FociWeb0916\\Program.cs",
+              "RelativeToolTip": "FociWeb0916\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:15:30.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UjMerkozesFelvetele.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\gajdos.csanad\\source\\repos\\gcsanad\\WebFoci\\FociWeb0916\\Pages\\UjMerkozesFelvetele.cshtml.cs",
+              "RelativeDocumentMoniker": "FociWeb0916\\Pages\\UjMerkozesFelvetele.cshtml.cs",
+              "ToolTip": "C:\\Users\\gajdos.csanad\\source\\repos\\gcsanad\\WebFoci\\FociWeb0916\\Pages\\UjMerkozesFelvetele.cshtml.cs",
+              "RelativeToolTip": "FociWeb0916\\Pages\\UjMerkozesFelvetele.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:15:21.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UjMeccsFelvetele.cshtml",
+              "DocumentMoniker": "C:\\Users\\gajdos.csanad\\source\\repos\\gcsanad\\WebFoci\\FociWeb0916\\Pages\\UjMeccsFelvetele.cshtml",
+              "RelativeDocumentMoniker": "FociWeb0916\\Pages\\UjMeccsFelvetele.cshtml",
+              "ToolTip": "C:\\Users\\gajdos.csanad\\source\\repos\\gcsanad\\WebFoci\\FociWeb0916\\Pages\\UjMeccsFelvetele.cshtml",
+              "RelativeToolTip": "FociWeb0916\\Pages\\UjMeccsFelvetele.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T06:14:03.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\gajdos.csanad\\source\\repos\\gcsanad\\WebFoci\\FociWeb0916\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FociWeb0916\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\gajdos.csanad\\source\\repos\\gcsanad\\WebFoci\\FociWeb0916\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FociWeb0916\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T06:12:44.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UjMeccsFelvetele.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\gajdos.csanad\\source\\repos\\gcsanad\\WebFoci\\FociWeb0916\\Pages\\UjMeccsFelvetele.cshtml.cs",
+              "RelativeDocumentMoniker": "FociWeb0916\\Pages\\UjMeccsFelvetele.cshtml.cs",
+              "ToolTip": "C:\\Users\\gajdos.csanad\\source\\repos\\gcsanad\\WebFoci\\FociWeb0916\\Pages\\UjMeccsFelvetele.cshtml.cs",
+              "RelativeToolTip": "FociWeb0916\\Pages\\UjMeccsFelvetele.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:51:22.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Meccs.cs",
+              "DocumentMoniker": "C:\\Users\\gajdos.csanad\\source\\repos\\gcsanad\\WebFoci\\FociWeb0916\\Models\\Meccs.cs",
+              "RelativeDocumentMoniker": "FociWeb0916\\Models\\Meccs.cs",
+              "ToolTip": "C:\\Users\\gajdos.csanad\\source\\repos\\gcsanad\\WebFoci\\FociWeb0916\\Models\\Meccs.cs",
+              "RelativeToolTip": "FociWeb0916\\Models\\Meccs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:47:25.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FociDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\gajdos.csanad\\source\\repos\\gcsanad\\WebFoci\\FociWeb0916\\Models\\FociDBContext.cs",
+              "RelativeDocumentMoniker": "FociWeb0916\\Models\\FociDBContext.cs",
+              "ToolTip": "C:\\Users\\gajdos.csanad\\source\\repos\\gcsanad\\WebFoci\\FociWeb0916\\Models\\FociDBContext.cs",
+              "RelativeToolTip": "FociWeb0916\\Models\\FociDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:47:21.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
