@@ -1,0 +1,72 @@
+﻿@page
+@model FociWeb0916.Pages.MerkozesekListaModel
+
+@{
+    ViewData["Title"] = "MerkozesekLista";
+}
+
+<h1>MerkozesekLista</h1>
+
+<p>
+    <a asp-page="UjMerkozesFelvetele">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Meccs[0].Fordulo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Meccs[0].Hazaiveg)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Meccs[0].Vendegveg)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Meccs[0].HazaiFel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Meccs[0].VendegFel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Meccs[0].HazaiCsapat)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Meccs[0].VendegCsapat)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Meccs) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fordulo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Hazaiveg)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Vendegveg)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HazaiFel)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VendegFel)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HazaiCsapat)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VendegCsapat)
+            </td>
+            <td>
+                <a asp-page="MerkozesekEdit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-page="MerkozesekDetails" asp-route-id="@item.Id">Details</a> |
+                    <a asp-page="MerkozesekDelete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

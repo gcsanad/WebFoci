@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UPEi/+VL3C8=",
+  "dgSpecHash": "0N5nAzLX0ho=",
   "success": true,
-  "projectFilePath": "C:\\Users\\gajdos.csanad\\Source\\Repos\\gcsanad\\WebFoci\\FociWeb0916\\FociWeb0916.csproj",
+  "projectFilePath": "C:\\Users\\gajdos.csanad\\source\\repos\\gcsanad\\WebFoci\\FociWeb0916\\FociWeb0916.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gajdos.csanad\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\gajdos.csanad\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
