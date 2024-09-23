@@ -17,63 +17,67 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FociWeb0916
 build_property.RootNamespace = FociWeb0916
-build_property.ProjectDir = C:\Users\gajdos.csanad\source\repos\gcsanad\WebFoci\FociWeb0916\
+build_property.ProjectDir = C:\Users\gajdos.csanad\Source\Repos\gcsanad\WebFoci\FociWeb0916\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\gajdos.csanad\source\repos\gcsanad\WebFoci\FociWeb0916
+build_property.MSBuildProjectDirectory = C:\Users\gajdos.csanad\Source\Repos\gcsanad\WebFoci\FociWeb0916
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/gajdos.csanad/source/repos/gcsanad/WebFoci/FociWeb0916/Pages/Error.cshtml]
+[C:/Users/gajdos.csanad/Source/Repos/gcsanad/WebFoci/FociWeb0916/Pages/AdatokFeltolteseFajlbol.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRhdG9rRmVsdG9sdGVzZUZhamxib2wuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gajdos.csanad/Source/Repos/gcsanad/WebFoci/FociWeb0916/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gajdos.csanad/source/repos/gcsanad/WebFoci/FociWeb0916/Pages/Index.cshtml]
+[C:/Users/gajdos.csanad/Source/Repos/gcsanad/WebFoci/FociWeb0916/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gajdos.csanad/source/repos/gcsanad/WebFoci/FociWeb0916/Pages/MerkozesekDelete.cshtml]
+[C:/Users/gajdos.csanad/Source/Repos/gcsanad/WebFoci/FociWeb0916/Pages/MerkozesekDelete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVya296ZXNla0RlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gajdos.csanad/source/repos/gcsanad/WebFoci/FociWeb0916/Pages/MerkozesekDetails.cshtml]
+[C:/Users/gajdos.csanad/Source/Repos/gcsanad/WebFoci/FociWeb0916/Pages/MerkozesekDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVya296ZXNla0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gajdos.csanad/source/repos/gcsanad/WebFoci/FociWeb0916/Pages/MerkozesekEdit.cshtml]
+[C:/Users/gajdos.csanad/Source/Repos/gcsanad/WebFoci/FociWeb0916/Pages/MerkozesekEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVya296ZXNla0VkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gajdos.csanad/source/repos/gcsanad/WebFoci/FociWeb0916/Pages/MerkozesekLista.cshtml]
+[C:/Users/gajdos.csanad/Source/Repos/gcsanad/WebFoci/FociWeb0916/Pages/MerkozesekLista.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVya296ZXNla0xpc3RhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gajdos.csanad/source/repos/gcsanad/WebFoci/FociWeb0916/Pages/Privacy.cshtml]
+[C:/Users/gajdos.csanad/Source/Repos/gcsanad/WebFoci/FociWeb0916/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gajdos.csanad/source/repos/gcsanad/WebFoci/FociWeb0916/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/gajdos.csanad/Source/Repos/gcsanad/WebFoci/FociWeb0916/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gajdos.csanad/source/repos/gcsanad/WebFoci/FociWeb0916/Pages/UjMeccsFelvetele.cshtml]
+[C:/Users/gajdos.csanad/Source/Repos/gcsanad/WebFoci/FociWeb0916/Pages/UjMeccsFelvetele.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVWpNZWNjc0ZlbHZldGVsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gajdos.csanad/source/repos/gcsanad/WebFoci/FociWeb0916/Pages/UjMerkozesFelvetele.cshtml]
+[C:/Users/gajdos.csanad/Source/Repos/gcsanad/WebFoci/FociWeb0916/Pages/UjMerkozesFelvetele.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVWpNZXJrb3plc0ZlbHZldGVsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gajdos.csanad/source/repos/gcsanad/WebFoci/FociWeb0916/Pages/_ViewImports.cshtml]
+[C:/Users/gajdos.csanad/Source/Repos/gcsanad/WebFoci/FociWeb0916/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gajdos.csanad/source/repos/gcsanad/WebFoci/FociWeb0916/Pages/_ViewStart.cshtml]
+[C:/Users/gajdos.csanad/Source/Repos/gcsanad/WebFoci/FociWeb0916/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gajdos.csanad/source/repos/gcsanad/WebFoci/FociWeb0916/Pages/Shared/_Layout.cshtml]
+[C:/Users/gajdos.csanad/Source/Repos/gcsanad/WebFoci/FociWeb0916/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-2dar3mlfzb

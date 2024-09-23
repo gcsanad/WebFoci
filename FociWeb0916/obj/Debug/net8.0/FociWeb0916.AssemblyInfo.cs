@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FociWeb0916")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ed2eada0313cf21232d53bc2c216d4a1f067f7a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbd3f065310665d68b0c6d86dc8caa19abb4d897")]
 [assembly: System.Reflection.AssemblyProductAttribute("FociWeb0916")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FociWeb0916")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

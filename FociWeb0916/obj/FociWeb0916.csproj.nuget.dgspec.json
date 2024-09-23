@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gajdos.csanad\\source\\repos\\gcsanad\\WebFoci\\FociWeb0916\\FociWeb0916.csproj": {}
+    "C:\\Users\\gajdos.csanad\\Source\\Repos\\gcsanad\\WebFoci\\FociWeb0916\\FociWeb0916.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gajdos.csanad\\source\\repos\\gcsanad\\WebFoci\\FociWeb0916\\FociWeb0916.csproj": {
+    "C:\\Users\\gajdos.csanad\\Source\\Repos\\gcsanad\\WebFoci\\FociWeb0916\\FociWeb0916.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gajdos.csanad\\source\\repos\\gcsanad\\WebFoci\\FociWeb0916\\FociWeb0916.csproj",
+        "projectUniqueName": "C:\\Users\\gajdos.csanad\\Source\\Repos\\gcsanad\\WebFoci\\FociWeb0916\\FociWeb0916.csproj",
         "projectName": "FociWeb0916",
-        "projectPath": "C:\\Users\\gajdos.csanad\\source\\repos\\gcsanad\\WebFoci\\FociWeb0916\\FociWeb0916.csproj",
+        "projectPath": "C:\\Users\\gajdos.csanad\\Source\\Repos\\gcsanad\\WebFoci\\FociWeb0916\\FociWeb0916.csproj",
         "packagesPath": "C:\\Users\\gajdos.csanad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gajdos.csanad\\source\\repos\\gcsanad\\WebFoci\\FociWeb0916\\obj\\",
+        "outputPath": "C:\\Users\\gajdos.csanad\\Source\\Repos\\gcsanad\\WebFoci\\FociWeb0916\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gajdos.csanad\\AppData\\Roaming\\NuGet\\NuGet.Config",
